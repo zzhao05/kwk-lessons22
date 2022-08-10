@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB3E1DB4-954B-4A5A-B904-CD8EBC902683"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "actions&amp;outlets/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - 49d23850985b2820"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.appTitle.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - 45fdfe8e5d808c34"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.appTitle.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - 79d678f6c90da127"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.appTitle.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - bbed115ffa7e7563"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.appTitle.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - d1b8b3a49c732eb0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; actions_outlets.ViewController"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  uuid = "9DF70B00-9A35-443B-9BD9-ECB3CEABF6DD - c991ed155e7cc6bf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "actions_outlets.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;actions_outlets.ViewController&gt;"
+                  moduleName = "actions&amp;outlets"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/scholar/Desktop/Intro-to-Xcode&amp;Storyboard/actions&amp;outlets/actions&amp;outlets/actions&amp;outlets/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "56">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
